@@ -83,4 +83,4 @@ int main()
 	return 0;
 }
 
-// This code is contributed by Tapesh(tapeshdua420)
+// this is written by Vaibhav Jaiswal
